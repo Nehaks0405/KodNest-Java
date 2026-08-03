@@ -1,7 +1,7 @@
-package track.M02.T01.SD01.P01;
+package track.M02.T01.SD01.P01.M02.T01.SD01.P02;
 
-public class learner {
-
+public class Learner {
+    
     public static void main(String[] args) {
         String learnerName = "Salman";
         int dailyPracticeHours = 8;
@@ -9,5 +9,4 @@ public class learner {
         System.out.println("Daily Practice: " + dailyPracticeHours + " Hours");
     }
 }
-    
 
